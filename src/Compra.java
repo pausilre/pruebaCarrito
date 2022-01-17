@@ -11,7 +11,7 @@ public class Compra {
 		sudaderas++;
 	}
 	
-	public int getPatalones() {
+	public int getPantalones() {
 		return pantalones;
 	}
 	public int getCamisas() {

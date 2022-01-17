@@ -9,7 +9,7 @@ public class CompraTest {
 		Compra carrito1 = new Compra();
 		carrito1.realizarCompra();
 		carrito1.realizarCompra();
-		assertEquals(carrito1.getPatalones(),2);
+		assertEquals(carrito1.getPantalones(),2);
 	}
 
 	@Test
